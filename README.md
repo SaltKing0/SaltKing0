@@ -19,7 +19,7 @@ My work primarily involves building AI agents and personal harness infrastructur
 
 **Stealth** — Still in the making.
 
-**Kami** — 
+**Kami** — The GitHub reliability toolkit: 🔥 kagutsuchi (status TUI), 🌬️ fujin (push failover), 🌩️ raijin (CI failover), ⚙️ ghhealth (shared engine). All Go, all open source.
 
 **IdeaGraph** — Obsidian for ideas. Graph visualization for builders.
 
