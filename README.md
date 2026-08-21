@@ -11,22 +11,12 @@
 
 ### 🧠 About Me
 
-Solo builder at the intersection of **AI Engineering** and **Vibe Coding**. I learn by shipping — not by over-planning. Currently deep in the harness layer, building systems where agents don't just code, but *represent*.
+Solo builder at the intersection of **AI Engineering** and **Vibe Coding**. I learn by shipping — not by over-planning.
 
 - 🔭 Working on **Stealth** (AI agent infrastructure)
-- 🌱 Exploring **Multi-Agent OS** design, persistent memory, cross-context identity
-- 💬 Ask me about **AI Harness Engineering**, **Bot Mode**, **Vibe Coding**
+- 🌱 Exploring multi-agent OS design and persistent memory
+- 💬 Ask me about AI Harness Engineering
 - 🎯 Goal: Contribute to the AI engineering discourse with concrete builds
-
----
-
-### 🛠️ Tech & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi,postgres,docker,linux,vim,md&theme=dark" alt="Tech Stack" />
-</p>
-
-**Harness Stack:** Claude Code • OpenCode • Hermes Agent • Custom harness tooling
 
 ---
 
@@ -34,8 +24,8 @@ Solo builder at the intersection of **AI Engineering** and **Vibe Coding**. I le
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| **[Stealth]** | Personal Agent OS — Multi-bot identity, persistent memory, cross-context learning | 🔒 In Stealth |
-| **[Kami]** | Family project — description TBD | 🚧 WIP |
+| **[Stealth]** | Personal Agent OS | 🔒 In Stealth |
+| **[Kami]** | Family project | 🚧 WIP |
 | **[IdeaGraph]** | Obsidian for ideas — Graph visualization for builders | 🧪 MVP |
 
 ---
@@ -48,16 +38,6 @@ Solo builder at the intersection of **AI Engineering** and **Vibe Coding**. I le
 
 ---
 
-### 🤝 Let's Connect
-
-If you're building in the AI agent space — especially harnesses, multi-agent systems, or vibe coding tools — I'd love to chat. The best conversations come from builders, not hype.
-
 <p align="center">
-  <i>"Prefer depth over hype. Build to learn, not to impress."</i>
-</p>
-
----
-
-<p align="center">
-  <sub>Profile inspired by builders who ship more than they tweet.</sub>
+  <i>Profile inspired by builders who ship more than they tweet.</i>
 </p>
