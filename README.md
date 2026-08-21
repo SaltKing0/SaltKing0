@@ -10,30 +10,25 @@
 
 My work primarily involves building AI agents and personal harness infrastructure. I prefer depth over hype and concrete building over abstract planning.
 
-- 🔭 Currently working on **Stealth** — Personal Agent OS with multi-bot identity and persistent memory
+- 🔭 Currently working on **Stealth** — still in the making
 - 🌱 Exploring cross-context learning, Bot Mode architectures, and vibe coding workflows
-- 💬 Ask me about AI Harness Engineering, multi-agent systems, or building in public
-- 🎯 Goal: Contribute to AI engineering discourse with concrete builds, not tweets
 
 ---
 
 ### 🚀 Featured Projects
 
-**Stealth** — Personal Agent OS
-Multi-bot identity, persistent memory, cross-context learning. Building the infrastructure for agents that represent you across terminal, social, and mobile.
+**Stealth** — Still in the making.
 
-**Kami** — Family project
-Description TBD.
+**Kami** — 
 
-**IdeaGraph** — Obsidian for ideas
-Graph visualization for builders. Think Obsidian meets AI-native workflows.
+**IdeaGraph** — Obsidian for ideas. Graph visualization for builders.
 
 ---
 
 ### 📫 Get in Touch
 
 - **X/Twitter**: [@SaltKing0](https://twitter.com/SaltKing0)
-- **GitHub**: [SaltKing0](https://github.com/SaltKing0)
+- **Discord**: saltclank
 
 ---
 
