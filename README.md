@@ -21,7 +21,7 @@ My work primarily involves building AI agents and personal harness infrastructur
 
 **Kami** — The GitHub reliability toolkit: 🔥 kagutsuchi (status TUI), 🌬️ fujin (push failover), 🌩️ raijin (CI failover), ⚙️ ghhealth (shared engine). All Go, all open source.
 
-**IdeaGraph** — Obsidian for ideas. Graph visualization for builders.
+**IdeaGraph Live Engine** — Self-growing idea graph: Ingest → Embed → Suggest → Visualize, backed by your own private git repo.
 
 ---
 
