@@ -19,9 +19,11 @@ My work primarily involves building AI agents and personal harness infrastructur
 
 **Stealth** — Still in the making.
 
+**IdeaGraph** — Self-growing idea graph: Ingest → Embed → Suggest → Visualize, backed by your own private git repo — with a private agent memory brain on top.
+
 **Kami** — The GitHub reliability toolkit: 🔥 kagutsuchi (status TUI), 🌬️ fujin (push failover), 🌩️ raijin (CI failover), ⚙️ ghhealth (shared engine). All Go, all open source.
 
-**IdeaGraph Live Engine** — Self-growing idea graph: Ingest → Embed → Suggest → Visualize, backed by your own private git repo.
+**AI Graveyard** — A public graveyard for dead AI projects and the lessons they died with. Every stone is one markdown file.
 
 ---
 
