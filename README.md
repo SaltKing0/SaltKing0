@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm SaltKing0 👋</h1>
 
 <p align="center">
-  Solo builder at the intersection of <strong>AI Engineering</strong> and <strong>Vibe Coding</strong>. I learn by shipping — not by over-planning.
+  Solo builder at the intersection of <strong>AI Engineering</strong>. I learn by shipping — not by over-planning.
 </p>
 
 ---
