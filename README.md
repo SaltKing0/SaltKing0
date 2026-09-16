@@ -8,18 +8,15 @@
 
 ### 🧠 About Me
 
-My work primarily involves building AI agents and personal harness infrastructure. I prefer depth over hype and concrete building over abstract planning.
-
-- 🔭 Currently working on **Stealth** — still in the making
-- 🌱 Exploring cross-context learning, Bot Mode architectures, and vibe coding workflows
+I build agent infrastructure: memory that moves between tools, knowledge graphs that grow themselves, and the reliability layer you only notice when it breaks. I ship in the open — including the ones that died.
 
 ---
 
 ### 🚀 Featured Projects
 
-**Stealth** — Still in the making.
-
 **IdeaGraph** — Self-growing idea graph: Ingest → Embed → Suggest → Visualize, backed by your own private git repo — with a private agent memory brain on top.
+
+**Tenjin** — A personal agent harness: plain TypeScript, zero runtime deps. Deprecated — it lives on as an artifact and a gravestone.
 
 **Kami** — The GitHub reliability toolkit: 🔥 kagutsuchi (status TUI), 🌬️ fujin (push failover), 🌩️ raijin (CI failover), ⚙️ ghhealth (shared engine). All Go, all open source.
 
