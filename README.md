@@ -14,7 +14,7 @@ I build agent infrastructure: memory that moves between tools, knowledge graphs 
 
 ### 🚀 Featured Projects
 
-**IdeaGraph** — Self-growing idea graph: Ingest → Embed → Suggest → Visualize, backed by your own private git repo — with a private agent memory brain on top.
+**graph-engine** — Self-growing graph: Ingest → Embed → Suggest → Visualize, backed by your own private git repo — with a private agent memory brain on top.
 
 **Tenjin** — A personal agent harness: plain TypeScript, zero runtime deps. Deprecated — it lives on as an artifact and a gravestone.
 
